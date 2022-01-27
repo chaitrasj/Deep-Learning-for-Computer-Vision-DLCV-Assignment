@@ -1,0 +1,44 @@
+lr: 1e-3, nodes:256, time_step:20
+Temperature: 0.4
+Initial Text =  The hall immediately began to buzz excitedly; the Gryffindors were telling the rest of the school what had just happened.
+Generated text = . Harry filest the trament and hands for the care and said. "And he want and away faren a will he was preaded all rearent of his faces a the traie alonger wand his said at he said and all stared all the freat face face and carried to be a portem the was porened and the said and sinning the freat to face he had not said all been brained and were all he had not be and all rearment and been the laughed all the wander his houlder the back and the leared his for shat his for the creat and his reared
+
+Temperature: 0.6
+Initial Text =  The hall immediately began to buzz excitedly; the Gryffindors were telling the rest of the school what had just happened.
+Generated text = .. You've never back and allusing been herined toded bit not his hand hon the train face was lack gare the carriace of the condared with a they matered over the wanded the trounding tow the engreen his armor, all then and Harry was armore and he was not painted to his for his hands and said Larry faughtungers, fire a fear have to have realizarden at his wand his for a minder not beteereal. He said Harry fathing with his for the pualed at the Ganger have was powerent.
+"It's the looder and the car
+
+Temperature: 0.8
+Initial Text =  The hall immediately began to buzz excitedly; the Gryffindors were telling  the rest of the school what had just happened.
+Generated text = . Harry for the? and string to peestening at I geilent. They with elliparded him. Alone minates, and he had dinny along to hounted about mane reather live lighter Ron cander the bearned of he had Harribly dis not was little ore as enporther.
+"Wed were morened his nanked his mained in this farest To was said anoupe as train of Harry.
+"He could not of the tatted dises air swerent innowent Hermione, behind the snached sinny air; I his son you. I here had beforan had did not gand reard he was trun w
+
+Temperature: 1
+Initial Text =  The hall immediately began to buzz excitedly; the Gryffindors were telling the rest of the school what had just happened.
+Generated text = .. Ar.
+Thiskimarrer the tracenitch comarrs, Navely bucked fire, Harry Pame laise fiundareness right had neerean wes away fout orcup rifeleever aswyone, Al and tappearate. Highod. To it lare,s shoued Harmignt and he at the thinking at it but minding him, but on laster in his wand had fire and the lead disen dideneathrown'edend. I don've no with exinks. "And parent, Yace were said he been from haventherered him."
+Haming, passed Hall the Concors. At op harry, blookers arrust nedding or her the fuie
+
+Temperature: 1.2
+Initial Text =  The hall immediately began to buzz excitedly; the Gryffindors were telling the rest of the school what had just happened.
+Generated text = .."
+"Behilh Deell; said hand ratents, thy blabohnom that alant of her," said Ro you're none apust, Patersure romessed as me, asted thout havone Hagaid wis saugheng a ataons.
+All he fulline. Ald of Klew miny he would bive Might Anophill be a cire the senemrstonlin 7otw Clackerts, Ave yetried impter the side Clace. Clous it qanted So bedrinned smill in ney with:ed to hied to Herm, entared innowoinow!'Norily. FifAcharlings:and stall. peeeraly annaker. "Starre's sufpenaunied to
+Stand wHether the cac
+
+Temperature: 1.4
+Initial Text =  The hall immediately began to buzz excitedly; the Gryffindors were telling the rest of the school what had just happened.
+Generated text =  HoUwerg.
+"Andey placfennor Arunescect if hap ice, urverstraco flien,"I dakereultrace. Rinfy his sapk all.
+TSn, afzemoto-pingerin Ma.-Pelearls, needed abuminedeam; aloulenesing sine of them handy's dipeter yindon. O3," it had navery doing his -"
+Harn'd ky a clyeh - notimed: he turrieh my fatere yeren He_r}We tim-leainiana bure hasf., when'."
+"Tnatughen!erl's watcea ambessed Blaineds aroussow.
+'s?"
+RYet. A me, the PereE.. falhine flyopeount my porem. WayeehiBgerean., nath.
+"Ne1Chint you hully bec
+
+
+
+
+
