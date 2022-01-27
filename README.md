@@ -3,7 +3,7 @@ The repository describes about the experiments conducted as a part of the assign
 
 ## 1. Text generation using RNN
 Implemented a character-level Recurrent Neural Network that models the probability distribution of the next character in a sequence, given the previous
-characters in the sequence. At each time step, the input to the network is a one-hot encoding of a single character.
+characters in the sequence. At each time step, the input to the network is a one-hot encoding of a single character. Dataset used is the [Harry Potter](https://github.com/chaitrasj/Deep-Learning-for-Computer-Vision-DLCV-Assignment/tree/main/RNN/Harry%20Potter) novel text data.
 - Implemented the character-level RNN from scratch without using any libraries.
 - Tuned for Hyperparameters like sequence length, temperature, number of hidden nodes, number of layers.
 - Demo generated text at the end of training is available.
